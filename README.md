@@ -1,5 +1,11 @@
-# PermLearn
-This repository contains the code for the paper **Exact Learning of Permutations for Nonzero Binary Inputs with Logarithmic Training Size and Quadratic Ensemble Complexity**. 
+<h2>PermLearn&nbsp;&nbsp;  <a href='https://arxiv.org/abs/2502.16763'><img src='https://img.shields.io/badge/ArXiv-2401.17505-red'></a> </h2> 
+
+  <br>
+  <p>This repository contains the code for the paper <b>Exact Learning of Permutations for Nonzero Binary Inputs with Logarithmic Training Size and Quadratic Ensemble Complexity</b> that reproduces the following results:</p>
+<p align="center">
+  <img src='experiments.png' width=50% align="center">
+</p>
+
 To run the experiments presented in the paper, first install the necessary dependencies by executing the following command:
 
 ```bash
